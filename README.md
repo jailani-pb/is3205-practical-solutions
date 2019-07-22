@@ -16,10 +16,3 @@ These exercise questions are taken from textbooks, mainly from:
 
 The solutions from textbook (1) stated above are done by Jabari James, and the github repository can be found at:
 https://github.com/jsquared21/Intro-to-Java-Programming
-
-# License & Copyright
-Exercise 1.1, 1.2 and 2.
-
-© Jabari H James
-
-Licensed under the MIT License.
