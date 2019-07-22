@@ -1,4 +1,4 @@
-### These solutions are mainly guideline, if your solutions satisfies the requirement, that means it is valid.
+### These solutions are mainly guideline, if your solutions satisfy the requirements, that means it is valid.
 
 # Exercise Questions (Through PBLMS)
 
