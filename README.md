@@ -1,3 +1,5 @@
+### These solutions are mainly guideline, if your solutions satisfies the requirement, that means it is valid.
+
 # Exercise Questions (Through PBLMS)
 
 [Exercise 1.1](https://lms.pb.edu.bn/vle/sict/pluginfile.php/83649/mod_resource/content/0/Exercise1.1.pdf)
@@ -14,5 +16,3 @@ These exercise questions are taken from textbooks, mainly from:
 
 The solutions from textbook (1) stated above are done by Jabari James, and the github repository can be found at:
 https://github.com/jsquared21/Intro-to-Java-Programming
-
-### These solutions are mainly guideline, if your solutions satisfies the requirement, that means it is valid.
