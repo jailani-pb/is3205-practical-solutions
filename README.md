@@ -19,6 +19,7 @@ https://github.com/jsquared21/Intro-to-Java-Programming
 
 # License & Copyright
 Exercise 1.1, 1.2 and 2.
+
 © Jabari H James
 
 Licensed under the MIT License.
