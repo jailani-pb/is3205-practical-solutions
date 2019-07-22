@@ -8,6 +8,11 @@
 
 # Disclaimer
 
-These exercises are taken from textbooks mainly:
+These exercise questions are taken from textbooks, mainly from:
 1. Introduction to Java Programming, Comprehensive Version, 10th Edition (Author: Y. Daniel Liang)
 2. Java How To Program (Early Objects), 10th Edition (Author: Paul J. Deitel, Harvey Deitel)
+
+The solutions from textbook (1) stated above are done by Jabari James, and the github repository can be found at:
+https://github.com/jsquared21/Intro-to-Java-Programming
+
+### These solutions are mainly guideline, if your solutions satisfies the requirement, that means it is valid.
