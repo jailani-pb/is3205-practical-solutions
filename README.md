@@ -8,6 +8,14 @@
 
 [Exercise 2](https://lms.pb.edu.bn/vle/sict/pluginfile.php/85165/mod_resource/content/0/Exercise2.pdf)
 
+[Exercise 3](https://lms.pb.edu.bn/vle/sict/pluginfile.php/85490/mod_resource/content/0/Exercise3.pdf)
+
+[Exercise 4](https://lms.pb.edu.bn/vle/sict/pluginfile.php/85784/mod_resource/content/0/Exercise4.pdf)
+
+[Exercise 5](https://lms.pb.edu.bn/vle/sict/pluginfile.php/86195/mod_resource/content/0/Exercise5.pdf)
+
+[Exercise 6](https://lms.pb.edu.bn/vle/sict/pluginfile.php/86556/mod_resource/content/0/Exercise6.pdf)
+
 # Disclaimer
 
 These exercise questions are taken from textbooks, mainly from:
